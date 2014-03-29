@@ -1,0 +1,17 @@
+{
+  "adminplugin" : [ ],
+  "configuration" : [ {
+    "id" : "T8F4ZD7008RQ",
+    "entry" : {
+      "_id" : "T8F4ZD7008RQ",
+      "configtype" : "featuresrepo_public",
+      "path" : "https://github.com/core9/feature-admin-dashboard.git",
+      "password" : null,
+      "user" : null,
+      "current" : {
+        "core9/features" : "1.0.0",
+        "core9/dashboard" : "1.0.0"
+      }
+    }
+  } ]
+}
